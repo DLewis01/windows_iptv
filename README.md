@@ -1,14 +1,14 @@
 # iptv
 `windows_iptv` is a powershell IPTV player for M3U playlists with fuzzy finding, right in your powershell window.
 
-The playlist will be updated once a day whenever you run `iptv`.
+The playlist will be updated once a day whenever you run `iptv.ps1`.
 
 ## Dependencies
 - [curl](https://github.com/curl/curl)
 - [fzf](https://github.com/junegunn/fzf)
 - [mpv](https://github.com/mpv-player/mpv)
 
-All dependencies are tested at launch and instructions are provided at launch for installing them. 
+All dependencies are tested at launch and instructions are provided at launch for installing them if they are not already installed. 
 
 ## Installation
 Download and run from powershell.
