@@ -1,4 +1,7 @@
 # iptv
+Front end for watching streaming video channels (IPTV)
+
+
 `windows_iptv` is a powershell IPTV player for M3U playlists with fuzzy finding, right in your powershell window.
 
 The playlist will be updated once a day whenever you run `iptv.ps1`.
