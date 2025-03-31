@@ -19,4 +19,4 @@ iptv.ps1 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 ```
 
 ## Usage
-Run `iptv`.
+Run `iptv.ps1`.
