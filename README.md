@@ -9,7 +9,7 @@ The playlist will be updated once a day whenever you run `iptv.ps1`.
 ## Dependencies
 - [curl](https://github.com/curl/curl)
 - [fzf](https://github.com/junegunn/fzf)
-- [mpv](https://github.com/mpv-player/mpv)
+- [mpv](https://github.com/mpv-player/mpv) and/or [vlc](https://www.videolan.org/vlc/download-windows.html)
 
 All dependencies are tested at launch and instructions are provided at launch for installing them if they are not already installed. 
 
