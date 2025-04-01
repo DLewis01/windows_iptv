@@ -6,7 +6,7 @@ Front end for watching streaming video channels (IPTV), playback is via mpv.
 
 The playlist will be updated once a day whenever you run `iptv.ps1`.
 
-The default player is now vlc, but if that isn't detectable, it will drop back to mpv. VLC was choosen as it has a bit more debuggin
+The default player is now vlc, but if that isn't detectable, it will drop back to mpv. VLC was choosen as it has a bit more debugging messages
 
 ## Dependencies
 - [curl](https://github.com/curl/curl)
