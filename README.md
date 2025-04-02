@@ -1,5 +1,5 @@
 # iptv
-Front end for watching streaming video channels (IPTV), playback is via mpv.
+Front end for watching streaming video channels (IPTV), playback is via mpv or VLC.
 
 
 `windows_iptv` is a powershell IPTV player for M3U playlists with fuzzy finding, right in your powershell window.
