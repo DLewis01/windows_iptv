@@ -20,7 +20,9 @@ Download and run from powershell.
 
 Run `iptv.ps1` with your playlist URL to load all the channels (only needed on first run).
 
-Two example playlists are given below (note that both may have inactive or out of date channels - please take that up with the respective maintainers of those repos)
+Two example playlists are given below 
+
+(note that both may have inactive or out of date channels - please take that up with the respective maintainers of those repos)
 
 ```
 iptv.ps1 https://iptv-org.github.io/iptv/index.m3u
